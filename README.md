@@ -7,3 +7,4 @@ Excel<br><be>
 Extract insights about employee attrition and create a dashboard to present the findings.
 
 ## ***Results***
+![attrition dashboard](dashboard.png)
