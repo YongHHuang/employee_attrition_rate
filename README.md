@@ -1,11 +1,14 @@
 # ***HR Attrition Dashboard***<br><br>
 
 ## ***Software and Language***
-Excel<br><be>
+*Excel*<br><br>
 
 ## ***Project Overview***
-Extract insights about employee attrition and create a dashboard to present the findings.
+Analyzing an HR Attrition dataset with key variables such as gender, age, tenure, department, overtime, performance, and attrition status. The analysis focuses on relationships between attrition and various factors using pivot tables.<br>
+
+After this analysis, an interactive dashboard is created to present insights visually. Users can explore attrition trends across variables, enhancing the understanding of workforce dynamics.
 
 ## ***Results***
-The dashboard offers attrition insights and allows users to analyze various aspects of attrition through gender and department filters.<br><br>
+<br>
+
 ![attrition dashboard](dashboard.png)
